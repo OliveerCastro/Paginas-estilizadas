@@ -2,5 +2,5 @@
 
 ## Páginas criadas
 
-- [Página de exemplo de seletores](paginas/pagina1.html)
-- [Página de exemplo de seletores](paginas/formulario.html)
+- [Página de exemplo de seletores](pagina1.html)
+- [Página de formulario](formulario.html)
